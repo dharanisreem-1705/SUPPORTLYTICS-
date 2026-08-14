@@ -1,4 +1,5 @@
 **Supportlytics – IT Support Performance Analytics Dashboard**
+
 Supportlytics is an end-to-end IT Support Performance Analytics and Business Intelligence project developed as part of my Infosys Springboard Virtual Internship Program. The project analyzes synthetic IT support ticket data using Python, Jupyter Notebook, and Power BI, and demonstrates the complete analytics workflow from data preparation and exploratory analysis to performance insights and interactive dashboard visualization.
 
 **Internship Information**
